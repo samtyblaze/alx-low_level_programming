@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 gcc -E $CFILE -o c
+=======
+echo 0-preprocessor
+>>>>>>> 5-printf.c
